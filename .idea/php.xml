@@ -3,6 +3,9 @@
   <component name="LaravelPint">
     <laravel_pint_settings>
       <LaravelPintConfiguration tool_path="$PROJECT_DIR$/backend/vendor/bin/pint" />
+      <laravel_pint_by_interpreter asDefaultInterpreter="true" interpreter_id="8e0a4a26-0c99-4290-8cdb-c62cddb7d5be" tool_path="$PROJECT_DIR$/backend/vendor/bin/pint">
+        <option name="timeout" value="30000" />
+      </laravel_pint_by_interpreter>
     </laravel_pint_settings>
   </component>
   <component name="MessDetectorOptionsConfiguration">
@@ -129,6 +132,15 @@
       <path value="$PROJECT_DIR$/backend/vendor/graham-campbell/result-type" />
       <path value="$PROJECT_DIR$/backend/vendor/composer" />
       <path value="$PROJECT_DIR$/backend/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/backend/vendor/_laravel_idea" />
+      <path value="$PROJECT_DIR$/backend/vendor/laravel/breeze" />
+      <path value="$PROJECT_DIR$/backend/vendor/inertiajs/inertia-laravel" />
+      <path value="$PROJECT_DIR$/backend/vendor/tightenco/ziggy" />
+      <path value="$PROJECT_DIR$/backend/vendor/spatie/laravel-translatable" />
+      <path value="$PROJECT_DIR$/backend/vendor/spatie/laravel-package-tools" />
+      <path value="$PROJECT_DIR$/backend/vendor/spatie/eloquent-sortable" />
+      <path value="$PROJECT_DIR$/backend/vendor/spatie/laravel-tags" />
+      <path value="$PROJECT_DIR$/backend/vendor/zircote/swagger-php" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
